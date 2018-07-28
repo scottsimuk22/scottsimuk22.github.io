@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Scotty K Shows Up"
 date: 2018-07-27
 ---

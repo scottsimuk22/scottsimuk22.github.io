@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
+name: Scott's Site
+markdown: markdown
 
 permalink: /blog/:year/:month/:day/:title

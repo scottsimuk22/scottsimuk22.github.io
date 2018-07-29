@@ -2,4 +2,4 @@ markdown: kramdown
 title: Scott Kumis - Novice
 description: A place for me to play with building a webpage
 permalink: /blog/:year/:month/:day/:title
-
+theme: jekyll-theme-time-machine

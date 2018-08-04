@@ -1,5 +1,5 @@
 ---
-title: blog entry
+title: First New Post on Github Pages
 layout: posts
 ---
 # Ever Evolving First Post

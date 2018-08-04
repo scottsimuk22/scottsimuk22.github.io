@@ -1,6 +1,7 @@
 ---
 title: Some Progress
 layout: posts
+date: 2018-08-03
 ---
 # What I Have Figured Out
 

@@ -1,7 +1,12 @@
 ---
-layout: posts
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: default
 title: Scott Kumis's Github Pages Website
 ---
+
+# Scott Kumis's Github Page
 
 I remember the good old days of Geocities. Everyone could have a homepage. Many of us didn't know shit about html, but that was enough to know how to copy and paste and make little tweaks here and there. This is my attempt at the same.
 

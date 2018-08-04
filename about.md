@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: page
 title: About
+permalink: /about/
 ---
 
-# Who Am I?
+## Who Am I?
 I am an attorney, musician, and occasional writer.
 
 Technology is my favorite topic, especially when combined with one of the above.

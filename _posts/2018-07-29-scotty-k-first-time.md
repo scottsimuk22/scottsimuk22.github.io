@@ -1,6 +1,6 @@
 ---
 title: First New Post on Github Pages
-layout: post
+layout: posts
 date: 2018-07-29
 ---
 # Ever Evolving First Post

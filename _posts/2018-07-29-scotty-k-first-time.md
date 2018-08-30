@@ -3,7 +3,6 @@ title: First New Post on Github Pages
 layout: posts
 date: 2018-07-29
 ---
-# Ever Evolving First Post
 
 The interaction between HTML, CSS, and Jekyll is still a bit confusing to me. I understand that my blog posts are written in markdown and that Jekyll turns them into HTML for my blog. But, I am still working out the three dash headers. Speaking of which, maybe I should add one above.
 

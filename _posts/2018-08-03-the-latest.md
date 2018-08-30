@@ -3,7 +3,6 @@ title: Some Progress
 layout: posts
 date: 2018-08-03
 ---
-# What I Have Figured Out
 
 So, I finally figured out how to run Jekyll in the command line of my Mac to set up a local server. This let's me tweak and preview my webpage before uploading it to Github.
 

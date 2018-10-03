@@ -43,7 +43,7 @@ ul.posts li {
     list-style: none;
 }
 
-@media only screen and (max-width: 600px) {
+@media (min-width: 320px) and (max-width: 480px) {
  
     body {
     margin: 5px auto;
